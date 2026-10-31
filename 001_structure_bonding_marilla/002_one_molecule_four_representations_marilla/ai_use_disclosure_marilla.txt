@@ -1,0 +1,3 @@
+AI Disclosure Statement
+
+Artificial Intelligence (AI) tools were used to assist in preparing and organizing the molecular representations in this activity. AI assistance was used to help identify molecular formulas, Lewis structures, condensed structural formulas, and bond-line formulas. All representations were reviewed and checked for atom count, valence, bond order, and connectivity to ensure consistency. The AI tool served only as an aid, while the final output was reviewed by the student.
